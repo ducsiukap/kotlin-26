@@ -1,4 +1,4 @@
-package kT002.basics
+package kt002_basics
 
 // import necessary package here
 // the import part has to at the top of file
