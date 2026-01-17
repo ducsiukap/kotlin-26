@@ -7,8 +7,8 @@
 ## Index
 
 **1. [Installation](/src/main/kotlin/KT001.setupEnvironment.md)**  
-**2. [Kotlin basic concepts](/src/main/kotlin/kt002_basics)**
-
+**2. [Kotlin basic concepts](/src/main/kotlin/kt002_basics)**  
+**3. [Kotlin Regex](/src/main/kotlin/kt003_regex.kt)**
 ---
 
 ## Goals
@@ -21,7 +21,7 @@ The main purposes of this repository are:
 
 ---
 
-## Tech stack
+## Tech stack & Tools
 
 Language: Kotlin (2.2.0)  
 JDK: jdk-21.  
