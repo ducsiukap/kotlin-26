@@ -10,7 +10,8 @@
 **2. [Kotlin basic concepts](/src/main/kotlin/kt002_basics/README.MD)**  
 **3. [Kotlin Regex](/src/main/kotlin/kt003_regex.kt)**  
 **4. [Functions](/src/main/kotlin/kt004_functions/README.MD)**  
-**5. [OOPs](/src/main/kotlin/kt005_oops/README.MD)**
+**5. [OOPs](/src/main/kotlin/kt005_oops/README.MD)**  
+**6. [Exceptions, nulls and smart cast](/src/main/kotlin/kt006_exception_handling/)**
 
 ---
 
