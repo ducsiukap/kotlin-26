@@ -1,4 +1,4 @@
-# Kotlin Object-Oriented Programming - OOPs
+# Kotlin Collections
 
 ## **Index**
 
