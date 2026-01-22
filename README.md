@@ -14,6 +14,20 @@
 **6. [Exceptions, nulls and smart cast](/src/main/kotlin/kt006_exception_handling/)**  
 **7. [Collection and Streams](/src/main/kotlin/kt007_collections/README.md)**
 
+### Readmore:
+
+**8. [Annotations](https://www.geeksforgeeks.org/kotlin/kotlin-annotations/)**  
+**9. [Reflection](https://www.geeksforgeeks.org/kotlin/kotlin-reflection/)**  
+**10. [Operator overloading](https://www.geeksforgeeks.org/kotlin/kotlin-operator-overloading/)**  
+**11. [Destructuring](https://www.geeksforgeeks.org/kotlin/destructuring-declarations-in-kotlin/)**  
+**12. [== (structural) vs === (references)](https://www.geeksforgeeks.org/kotlin/equality-evaluation-in-kotlin/)**  
+**13. [Triple](https://www.geeksforgeeks.org/kotlin/triple-in-kotlin/), [Pair](https://www.geeksforgeeks.org/kotlin/pair-in-kotlin/)**  
+**14. [.apply(), .with()](https://www.geeksforgeeks.org/kotlin/kotlin-apply-vs-with/)**
+
+- `.apply()`: dùng `this` (vào trong object), trả về chính object -> khởi tạo/set nhiều thuộc tính của object
+- `.with()`: dùng `this`, trả về kết quả = input của .apply() + output của .let()
+- `.let()`: dùng `it` (sử dụng object từ ngoài), trả về kết quả, hay đi kèm `?.` để check null.
+
 ---
 
 ## Goals
